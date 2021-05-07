@@ -17,6 +17,8 @@ las credenciales de conexion a la DB se pueden actualizar desde src/main/resourc
 gradle build //compilamos el proyecto y refrescamos dependencias
 gradle run //corremos el proyecto local
 ```
+## Swagger DOC
+### Con el proyecto corriendo podemos ingresar por un navegar web a http://localhost:8080/challenge/swagger-ui.html#/ para visualizar la documentacion generada por Swagger
 
 
 ## Uso
