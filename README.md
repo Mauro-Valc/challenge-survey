@@ -1,6 +1,7 @@
 # Reto RobinFood
 
-Prueba tecnica para desarrollador Back
+### Prueba tecnica para desarrollador Back
+Se creo una api rest para obtener la inforamcion de una encuesta y guardar los resultados en base de datos
 
 ## Tecnologias
 * Java 11
