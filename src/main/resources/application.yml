@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: challenge-survey
+  datasource:
+    url: jdbc:mysql://127.0.0.1/challenge?useSSL=false&useLegacyDatetimeCode=false&serverTimezone=UTC
+    username: root
+    password: password
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    
+server:
+  port: 8080
+  servlet:
+    context-path: /challenge
+logging:
+  level:
+    com.mercadolibre.api: DEBUG
