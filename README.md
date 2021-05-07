@@ -99,6 +99,6 @@ gradle test
 
 Para validar la cobertura utilice el plugin Java Code Coverage de eclipce
 
-![code_coverage](coverage/coverage.PNG)
+![code_coverage](coverage/coverage.png)
 
 ### - [Mauricio Valencia Cosme](mauro.valc@gmail.com)
